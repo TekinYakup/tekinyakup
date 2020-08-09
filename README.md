@@ -54,6 +54,10 @@
 <code>  <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"/></code>
 <code>  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> </code>
 <code>  <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="20" height="20"/></code>
+
+<br />
+<br />
+
 <img src="https://i.ibb.co/XWhC0fL/coding-desk-flat-vector-ui-ux-design-illustration-motion-animation-gif2.gif" alt="Yakup Tekin Coder" width="800" height="600">
 
 
