@@ -60,7 +60,7 @@
 
 <img src="https://i.ibb.co/XWhC0fL/coding-desk-flat-vector-ui-ux-design-illustration-motion-animation-gif2.gif" alt="Yakup Tekin Coder" width="800" height="600">
 
-
+[![Spotify](https://novatorem.yakuptekin.vercel.app//api/spotify)](https://open.spotify.com/user/q77u5oo7ronbw16r2ykq0vukx)
 <!---
   if you have forked this to use on your profile,
   Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`
