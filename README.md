@@ -38,7 +38,7 @@
 
 **Languages and Tools:**  
 
-<code>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="20" height="20"/></code>
+<code>  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angularjs" width="20" height="20"/></code>
 <code>  <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="20" height="20"/></code>
 <code>  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="20" height="20"/></code>
 <code>  <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="20" height="20"/></code>
